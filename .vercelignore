@@ -1,0 +1,6 @@
+/node_modules 
+/tests 
+.git 
+.env 
+/storage/framework/views 
+/vendor
